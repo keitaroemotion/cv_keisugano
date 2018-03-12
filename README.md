@@ -76,23 +76,30 @@ Since Sales Team had difficulty with communicating with the developers in the He
 
 ## EXPERIENCE
 
-- Omise Japan Inc.,
--- November 2016 - Present
-- System Engineer, Gurunavi Inc.,
--- April 2014 – October 2016
-- Programmer, Xecys Inc.,
--- March 2012 - March 2014  
-- English Teacher, Genious Education Inc., (SAPIX)
--- April 2011 - November 2011	   
+#### Omise Japan Inc.,
+
+November 2016 - Present
+
+#### System Engineer, Gurunavi Inc.,
+
+April 2014 – October 2016
+
+#### Programmer, Xecys Inc.,
+
+March 2012 - March 2014  
+
+#### English Teacher, Genious Education Inc., (SAPIX)
+
+April 2011 - November 2011	   
 
 
 ## EDUCATION
 
-- Waseda University, Tokyo
+#### Waseda University, Tokyo
 - Graduated, March 2011
-- Studies of International Liberal Arts
+#### Studies of International Liberal Arts
 - Major: Liberal Arts
-- Nagoya High School
+#### Nagoya High School
 - Graduated, March 2004
 
 ## SKILLS/QUALIFICATIONS
