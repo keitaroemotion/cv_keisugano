@@ -47,7 +47,13 @@ So I made scripts for the penetration test in Python, and prepared to the inspec
 
 ## Point System
 
-  Since around November 2015, current team leader assigned me to the the Point System Development Project, including product requirement and design phases. It was totally categorized as the water-fall project. The system is implemented in Java. In the project, English is officially forbidden in any documents / comments. Aside from coding and designing/product requirement, I was assigned to the Database/ Data syntax denominating task. Almost 95% of the documents were excel. The problem of it was, once a part of system definition altered, team members, opening each excelled documents one by one, had to modify the relating part of the documents manually. It was a waste-time job. Therefore my passion to make elements as mutually exclusive as possible enforced me to utilize Confluence as Wiki, created dictionary(one term, one page). Initially team managers declined my proposals, but they finally evaluated my Wiki-based document managing strategy and assigned me the job for the Wiki management. In the project no functional coding was allowed and each developers coded abiding by the OOP rule.
+  Since around November 2015, current team leader assigned me to the the Point System Development Project, including product requirement and design phases.
+It was totally categorized as the water-fall project. The system is implemented in Java. In the project, English is officially forbidden in any documents / comments.
+Aside from coding and designing/product requirement, I was assigned to the Database/ Data syntax denominating task.
+Almost 95% of the documents were excel. The problem of it was, once a part of system definition altered, team members, opening each excelled documents one by one,
+had to modify the relating part of the documents manually. It was a waste-time job. Therefore my passion to make elements as mutually exclusive as possible enforced
+me to utilize Confluence as Wiki, created dictionary(one term, one page). Initially team managers declined my proposals, but they finally evaluated my Wiki-based document
+managing strategy and assigned me the job for the Wiki management. In the project no functional coding was allowed and each developers coded abiding by the OOP rule.
 
 
 ## Payment Gateway
@@ -70,73 +76,73 @@ Since Sales Team had difficulty with communicating with the developers in the He
 
 ## EXPERIENCE
 
-Omise Japan Inc.,
-  November 2016 - Present
-System Engineer, Gurunavi Inc.,
-  April 2014 – October 2016
-Programmer, Xecys Inc.,
-  March 2012 - March 2014  
-English Teacher, Genious Education Inc., (SAPIX)
-  April 2011 - November 2011	   
+- Omise Japan Inc.,
+-- November 2016 - Present
+- System Engineer, Gurunavi Inc.,
+-- April 2014 – October 2016
+- Programmer, Xecys Inc.,
+-- March 2012 - March 2014  
+- English Teacher, Genious Education Inc., (SAPIX)
+-- April 2011 - November 2011	   
 
 
 ## EDUCATION
 
-Waseda University, Tokyo
-Graduated, March 2011
-Studies of International Liberal Arts
-Major: Liberal Arts
-Nagoya High School
-Graduated, March 2004
+- Waseda University, Tokyo
+- Graduated, March 2011
+- Studies of International Liberal Arts
+- Major: Liberal Arts
+- Nagoya High School
+- Graduated, March 2004
 
 ## SKILLS/QUALIFICATIONS
 ### ENGINEERING SKILLS
 
-C#
-Git
-Java(7,8)
-OOP
-Functional Programming
-Ruby
-Ruby on Rails
-Python
-ShellScript
-vim, tmux
-terminal-based development
-JIRA
-Confluence
-Wiki Management, Wiki-based Document Establishment
-Domain Specific Language(DSL) 
-HTML
-CSS
-PHP
-JSON
-XML
-Eclipse
-Emacs
-Windows Server Launching and Configuration
-Oracle (BASICS)
-MySQL(BASICS)
-NoSQL(Cassandra)(BASICS)
-Linux(Ubuntu, Debian, CentOS)
-Javascript
-Pdflib
-Gitlab
-Apache2.0 
-FuelPHP
-Zend Framework
+- C#
+- Git
+- Java(7,8)
+- OOP
+- Functional Programming
+- Ruby
+- Ruby on Rails
+- Python
+- ShellScript
+- vim, tmux
+- terminal-based development
+- JIRA
+- Confluence
+- Wiki Management, Wiki-based Document Establishment
+- Domain Specific Language(DSL) 
+- HTML
+- CSS
+- PHP
+- JSON
+- XML
+- Eclipse
+- Emacs
+- Windows Server Launching and Configuration
+- Oracle (BASICS)
+- MySQL(BASICS)
+- NoSQL(Cassandra)(BASICS)
+- Linux(Ubuntu, Debian, CentOS)
+- Javascript
+- Pdflib
+- Gitlab
+- Apache2.0 
+- FuelPHP
+- Zend Framework
+- 
+- SKILLS OF INTRODUCTORY LEVEL 
+- ansible
+- C
+- C++
+- F# 
+- Haskell
+- Erlang
+- LISP
 
-SKILLS OF INTRODUCTORY LEVEL 
-ansible
-C
-C++
-F# 
-Haskell
-Erlang
-LISP
 
-
-QUALIFICATIONS
+## QUALIFICATIONS
 TOEIC 840
 
 
